@@ -24,3 +24,4 @@ phar.readonly = Off
 ```
 openssl sha1 build.phar
 ```
+
