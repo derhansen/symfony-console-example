@@ -1,0 +1,8 @@
+[
+    {
+        name: "test.phar",
+        sha1: "e8ba9d44304870f5b411800abfaf21497e6524bd",
+        url: "http://derhansen.github.io/symfony-console-example/download/test-0.3.0.phar",
+        version: "0.3.0"
+    }
+]
