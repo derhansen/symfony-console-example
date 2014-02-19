@@ -7,8 +7,9 @@ set_time_limit(0);
 
 use Symfony\Component\Console\Application;
 
-$app = new Application('PHP Cli command example', '0.2.0');
+$app = new Application('PHP Cli command example', '@package_version@');
 $app->addCommands(array(
-	new Derhansen\Cli\Command\HelloCommand()
+	new Derhansen\Cli\Command\HelloCommand(),
+	new Derhansen\Cli\Command\UpdateCommand()
 ));
 $app->run();
