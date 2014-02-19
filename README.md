@@ -1,5 +1,7 @@
 ##PHP cli command based on Symfony Console Component
 
+[![Build Status](https://travis-ci.org/derhansen/symfony-console-example.png?branch=master)](https://travis-ci.org/derhansen/symfony-console-example)
+
 ###Requirements
 
 Both composer and box should be installed
