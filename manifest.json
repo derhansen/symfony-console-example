@@ -4,5 +4,11 @@
         "sha1": "28570324600b606ad45abd274dd148c60b439227",
         "url": "http://derhansen.github.io/symfony-console-example/download/test-0.3.0.phar",
         "version": "0.3.0"
+    },
+    {
+        "name": "test.phar",
+        "sha1": "193820d5f6b0f10a417c3a2ebc66262c6eaf2f98",
+        "url": "http://derhansen.github.io/symfony-console-example/download/test-0.3.1.phar",
+        "version": "0.3.1"
     }
 ]
