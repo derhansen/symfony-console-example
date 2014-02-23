@@ -16,7 +16,7 @@ class HelloCommand extends Command {
 	 */
 	protected function configure() {
 		$this->setName("hello")
-			->setDescription("Command prints 'Hello World!'")
+			->setDescription("This command prints 'Hello World!'")
 			->setDefinition(array(
 				new InputOption('flag', 'f', InputOption::VALUE_NONE, 'Raise a flag'),
 				new InputArgument('activities', InputArgument::IS_ARRAY, 'Space-separated activities to perform', null),
