@@ -1,14 +1,8 @@
 [
     {
         "name": "test.phar",
-        "sha1": "04a7c0fb9e07669fa0fbdf61f669bcefa0985d20",
+        "sha1": "28570324600b606ad45abd274dd148c60b439227",
         "url": "http://derhansen.github.io/symfony-console-example/download/test-0.3.0.phar",
         "version": "0.3.0"
-    },
-    {
-        "name": "test.phar",
-        "sha1": "01c6fc2f2cacc70cda661dd3651d0a59e3995a8a",
-        "url": "http://derhansen.github.io/symfony-console-example/download/test-0.3.1.phar",
-        "version": "0.3.1"
     }
 ]
